@@ -1,0 +1,33 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+#main {
+  margin: 50px auto;
+  max-width: 600px;
+
+  h1 {
+    font-weight: 700;
+    font-size: 45px;
+    margin: 50px 0 40px 0;
+    color: #1851fc;
+    text-align: center;
+  }
+
+  h2 {
+    font-weight: 500;
+    font-size: 32px;
+    color: #c2c2c2;
+    margin: 0 20px 50px 0;
+    text-align: center;
+  }
+
+  .people {
+    margin: 50px 0;
+
+    li {
+      background-color: #4044c9;
+      color: #eff0ff;
+    }
+  }
+}
